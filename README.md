@@ -72,7 +72,7 @@ The trained model outputs:
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/pcos-prediction-system.git
+git clone https://github.com/Subhadra-Bhattacharyya/pcos-prediction-system.git
 cd pcos-prediction-system
 
 2️⃣ Install Dependencies
